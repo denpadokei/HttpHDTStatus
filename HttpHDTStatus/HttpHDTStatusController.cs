@@ -1,5 +1,6 @@
 ﻿using HeadDistanceTravelled;
 using HttpSiraStatus;
+using HttpSiraStatus.Enums;
 using HttpSiraStatus.Interfaces;
 using HttpSiraStatus.Util;
 using System;
