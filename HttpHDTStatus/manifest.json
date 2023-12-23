@@ -3,12 +3,12 @@
   "id": "HttpHDTStatus",
   "name": "HttpHDTStatus",
   "author": "denpadokei",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "",
-  "gameVersion": "1.20.0",
+  "gameVersion": "1.34.2",
   "dependsOn": {
-    "BSIPA": "^4.2.0",
-    "HttpSiraStatus": "^9.0.0",
+    "BSIPA": "^4.3.2",
+    "HttpSiraStatus": "^11.0.0",
     "SiraUtil": "^3.0.0",
     "HeadDistanceTravelled": "<1.0.0"
   }
